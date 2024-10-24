@@ -1,0 +1,14 @@
+C:\Users\big_f\source\repos\Record\Record\bin\Debug\net8.0\Record.exe
+C:\Users\big_f\source\repos\Record\Record\bin\Debug\net8.0\Record.deps.json
+C:\Users\big_f\source\repos\Record\Record\bin\Debug\net8.0\Record.runtimeconfig.json
+C:\Users\big_f\source\repos\Record\Record\bin\Debug\net8.0\Record.dll
+C:\Users\big_f\source\repos\Record\Record\bin\Debug\net8.0\Record.pdb
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\Record.AssemblyInfoInputs.cache
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\Record.AssemblyInfo.cs
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\Record.csproj.CoreCompileInputs.cache
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\Record.dll
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\refint\Record.dll
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\Record.pdb
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\Record.genruntimeconfig.cache
+C:\Users\big_f\source\repos\Record\Record\obj\Debug\net8.0\ref\Record.dll
